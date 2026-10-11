@@ -23,3 +23,9 @@ Found a bug or have a suggestion? Open an issue with a description. For bugs, in
 ## Credits
 
 Created by Abyssian.
+
+## License and permissions
+
+All rights reserved for the original content of this mod. Rights to third-party content remain with their respective owners.
+
+You may include this mod in modpacks.
